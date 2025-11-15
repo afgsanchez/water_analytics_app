@@ -1,0 +1,105 @@
+31/07/2025 14:10:00
+Fecha Recepción
+Fecha Emisión Informe
+CRTA. CADIZ-MALAGA,KM. 193  URB. MARBELLA DEL ESTE-MARBELL  00000 
+Tª 25.8ºC
+08/08/2025 # FECHA EMISION INFORME
+LABORATORIO
+Fecha Toma Muestra
+Más información sobre la muestra
+Recogida por
+Motivo de control
+31/07/2025 11:40:00 # FECHA TOMA MUESTRA
+Nº de Muestra: A / 295338
+06/08/2025
+Fecha Final Análisis
+Fecha Inicio Analisis
+31/08/2025
+Método muestreo
+ALJIBE VILLAS Nº 7C #IDENTIFICACION DE LA MUESTRA
+Referencia Cliente
+Identificación del Cliente
+Dirección
+Nombre Fiscal
+Teléfonos
+Fax
+Identificación de la Muestra
+ANÁLISIS DE AGUA
+MVCI MANAGEMENT, S.L.U. (SPA)
+100303
+RESULTADOS ANALITICOS # COLUMNA PARAMETRO
+CALIBRACIÓN # COLUMNA CALIBRACION
+METODOLOGÍA COLUMNA METODOLOGIA
+Aerobios a 22ºC # PARAMETRO 1
+< 100 # CALIBRACION
+UFC/ml # RESULTADO PARAMETRO 1 - 02 
+* 190 # RESULTADO PARAMETRO 1 - 01
+Siembra en Masa # METODOLOGIA
+Coliformes Totales # PARAMETRO 2
+AUSENCIA # CALIBRACION
+UFC/100 ml # RESULTADO PARAMETRO 2 - 02
+  0 # RESULTADO PARAMETRO 2 - 01
+Filtración Membrana # METODOLOGIA
+E.coli ß-glucuronidasa positiva # PARAMETRO 3
+AUSENCIA # CALIBRACION
+UFC/100 ml # RESULTADO PARAMETRO 3 - 02
+  0 # RESULTADO PARAMETRO 3 - 01
+Filtración Membrana # METODOLOGIA
+Clostridios perf. y Esporas # PARAMETRO 4
+AUSENCIA # CALIBRACION
+UFC/100 ml # RESULTADO PARAMETRO 4 - 02
+  0 # RESULTADO PARAMETRO 4 - 01
+Filtración Membrana # METODOLOGIA
+Olor # PARAMETRO 5
+< 3 # CALIBRACION
+Factor de dilución # RESULTADO PARAMETRO 5 - 02
+  0 # RESULTADO PARAMETRO 5 - 01
+Sensorial  # METODOLOGIA
+Color # PARAMETRO 6
+< 15 # CALIBRACION
+mg/l (Pt/Co) # RESULTADO PARAMETRO 6 - 02
+  <1 # RESULTADO PARAMETRO 6 - 01
+Espetrofotometría de Absorción # METODOLOGIA
+Turbidez # PARAMETRO 7
+< 4 # CALIBRACION
+NTU RESULTADO # PARAMETRO 7 - 02
+  0,90 # RESULTADO PARAMETRO 7 - 01
+Nefelometría # METODOLOGIA
+pH # PARAMETRO 8
+6,50 - 9,50 # CALIBRACION
+  8,24 # RESULTADO PARAMETRO 8 - 01
+Electrodo Específico # METODOLOGIA
+Conductividad a 20ºC # PARAMETRO 9
+< 2.500 # CALIBRACION
+µS/cm # RESULTADO PARAMETRO 9 - 02
+  2.410 # RESULTADO PARAMETRO 9 - 01
+Electrodo Específico # METODOLOGIA
+Amonio (NH4) # PARAMETRO 10
+< 0,50 # CALIBRACION
+mg/l # RESULTADO PARAMETRO 10 - 02
+  <0,05 # RESULTADO PARAMETRO 10 - 01
+Espectrofotometría de Absorción # METODOLOGIA
+Cloro Libre # PARAMETRO 11
+< 1,0 # CALIBRACION
+mg/l # RESULTADO PARAMETRO 11 - 02
+  1,00 # RESULTADO PARAMETRO 11 - 01
+Fotometría # METODOLOGIA
+Comentarios
+Agua Apta para el consumo con incumpliento.
+Legislación
+Real Decreto 10 de enero 2023, Núm. 3/2023, por el que se establecen los criterios técnico-sanitarios de la calidad del agua de consumo, su control y   
+suministro.
+(4) Parámetro externalizado: Eurofins Analytico B.V.
+Dirección Técnica
+María Marroig
+    Ténico Laboratorio
+    Alba Barceló
+Los valores marcados con el signo * indican que el resultado obtenido supera el valor máximo admisible según la normativa.
+Los análisis hacen referencia exclusivamente a las muestras recogidas en el día/hora indicada en este informe.
+Este informe no podrá ser reproducido ni total ni parcialmente sin el consentimiento del Laboratorio.
+Página 1 de 1
+Laboratorio de análisis físico, químico y microbiológico de control
+ medio ambiental, alimentario y agrícola UNE en ISO 9001
+Nº SGI3204600
+Cami Muntanya, 99 (7198) Son Ferriol-Palma de Mallorca - BALEARES
+Tel. 971426070     Fax  - aquibib@aquibib.com - F09681925 - www.aquibib.com

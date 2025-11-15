@@ -14,7 +14,7 @@ def extract_fecha(lines, label, offset):
     return ""
 
 def is_param_line(line):
-    # Ajusta este filtro según tus parámetros reales
+    # Ajusta este filtro según los parámetros reales
     excl = [
         "AUSENCIA", "<", "=", "mg/l", "NTU", "UFC", "Factor", "Sensorial", "Filtración", "Siembra",
         "Fotometría", "Espetrofotometría", "Nefelometría", "Electrodo", "Método", "Comentarios",
